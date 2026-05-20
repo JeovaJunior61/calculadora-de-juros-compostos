@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Juros Compostos",
+  "description": "Uma calculadora intuitiva de juros compostos com gráficos interativos, tabelas de evolução e guias explicativos de educação financeira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
